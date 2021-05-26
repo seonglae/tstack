@@ -1,6 +1,6 @@
 {
-  "name": "gstack",
-  "displayName": "GStack",
+  "name": "tstack",
+  "displayName": "TStack",
   "description": "Language Independant VSCode Default Development Stack of Extensions",
   "version": "1.0.0",
   "engines": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/seonglae/gstack"
+    "url": "https://github.com/seonglae/tstack"
   },
   "license": "MIT",
   "publisher": "seonglae",
@@ -21,11 +21,19 @@
     "Extension Packs"
   ],
   "keywords": [
-    "geology"
+    "theme", "icon", "color", "highlight", "pack"
   ],
   "extensionPack": [
-    "SmartMonkey.geotools",
-    "jumpinjackie.vscode-map-preview",
-    "RandomFractalsInc.geo-data-viewer"
+    "Yummygum.city-lights-icon-vsc",
+    "yummygum.city-lights-theme",
+    "arcticicestudio.nord-visual-studio-code",
+    "zhuangtongfa.material-theme",
+    "miguelsolorio.fluent-icons",
+    "juanmnl.vscode-theme-mr-pink",
+    "swashata.beautiful-ui",
+    "seonglae.one-dark-teal",
+    "wayou.vscode-todo-highlight",
+    "fabiospampinato.vscode-highlight",
+    "cliffordfajardo.highlight-line-vscode"
   ]
 }
