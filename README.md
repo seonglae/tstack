@@ -1,9 +1,7 @@
-# VStack
+# TStack
 <p align="center"><img width="200"alt="vstack" src="images/logo.png"/></p>
 
-Gstack offers great extensions for Geology Developer.
-
-These extensions are language free, fit for everyone curated even you are not developer
+Simple Pretty Theme VSCode Extension Pack
 
 # Curated List
 

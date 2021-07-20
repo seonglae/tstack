@@ -1,10 +1,13 @@
 {
   "name": "tstack",
   "displayName": "TStack",
-  "description": "Language Independant VSCode Default Development Stack of Extensions",
-  "version": "1.0.1",
+  "description": "Simple Pretty Theme VSCode Extension Pack",
+  "version": "1.0.2",
   "engines": {
     "vscode": "^1.x.x"
+  },
+  "scripts": {
+    "release": "vsce package && vsce publish"
   },
   "galleryBanner": {
     "color": "#242426",
@@ -21,7 +24,11 @@
     "Extension Packs"
   ],
   "keywords": [
-    "theme", "icon", "color", "highlight", "pack"
+    "theme",
+    "icon",
+    "color",
+    "highlight",
+    "pack"
   ],
   "extensionPack": [
     "Yummygum.city-lights-icon-vsc",
